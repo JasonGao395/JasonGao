@@ -1,0 +1,32 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+.required {
+  color: red;
+}
+
+.observation-field {
+  border-radius: 10px;
+  border: 2px solid #00e5ee;
+  padding: 10px;
+  margin-top: -10px;
+}
+
+.title {
+  background-color: white;
+  margin-left: 15px;
+}
+
+.submit {
+  margin-top: 10px;
+}
+
+.lat-tip {
+  color: red;
+  display: none;
+}
+
+.lon-tip {
+  color: red;
+  display: none;
+}
